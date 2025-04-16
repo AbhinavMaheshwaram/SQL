@@ -8,7 +8,7 @@ The SQL Murder Mystery is an interactive game where you use SQL queries to inves
 
 ## Solution (`mystery_solved.sql`)
 
-The `solution.sql` file contains a series of SQL queries that were executed to gather information and progressively narrow down the list of suspects. The script follows the clues provided in the game, including:
+The `mystery_solved.sql` file contains a series of SQL queries that were executed to gather information and progressively narrow down the list of suspects. The script follows the clues provided in the game, including:
 
 * Initial investigation of the crime scene report.
 * Identifying and interviewing the two witnesses.
