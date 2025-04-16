@@ -6,14 +6,14 @@ This repository contains the SQL script (`mystery_solved.sql`) that solves the S
 
 The SQL Murder Mystery is an interactive game where you use SQL queries to investigate a murder that occurred in SQL City on January 15, 2018. By examining various database tables like crime scene reports, witness interviews, and personal details, you must piece together the clues to identify the murderer.
 
-## Solution (`solution.sql`)
+## Solution (`mystery_solved.sql`)
 
 The `solution.sql` file contains a series of SQL queries that were executed to gather information and progressively narrow down the list of suspects. The script follows the clues provided in the game, including:
 
 * Initial investigation of the crime scene report.
 * Identifying and interviewing the two witnesses.
 * Analyzing witness statements about a gym member and a vehicle.
-* Utilizing information about a concert attendee with specific physical characteristics and vehicle.
+* Utilizing information about a concert attendee with specific physical characteristics and a vehicle.
 
 The final query in the script identifies the murderer.
 
@@ -28,8 +28,5 @@ This script is designed to be executed on the SQL Murder Mystery platform ([http
 ## Notes
 
 * This solution represents one possible way to solve the mystery. There might be alternative SQL queries or approaches to reach the same conclusion.
-* The comments within the `solution.sql` file provide context for each query and the clues being investigated.
+* The comments within the `mystery_solved.sql` file provide context for each query and the clues being investigated.
 
-## Author
-
-[Your Name/GitHub Username (Optional)]
