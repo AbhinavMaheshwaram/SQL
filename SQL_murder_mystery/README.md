@@ -23,7 +23,7 @@ The murderer in this case was found to be **Miranda Priestly**.
 
 ## How to Run
 
-This script is designed to be executed on the SQL Murder Mystery platform ([https://mystery.knightlab.com/](https://mystery.knightlab.com/)). You can copy and paste the individual queries or the entire `solution.sql` content into the query editor on the website to follow the investigation steps.
+This script is designed to be executed on the SQL Murder Mystery platform ([https://mystery.knightlab.com/](https://mystery.knightlab.com/)). You can copy and paste the individual queries or the entire `mystery_solved.sql` content into the query editor on the website to follow the investigation steps.
 
 ## Notes
 
