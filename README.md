@@ -50,4 +50,4 @@ Portfolio Link URL: https://abhinavmaheshwaram.wixsite.com/profile
 
 ## License
 
-[Choose a License - e.g., MIT License, Apache License 2.0, or specify "No License" if you don't want others to use your code freely]
+MIT License
