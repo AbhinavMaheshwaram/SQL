@@ -1,4 +1,9 @@
 
+-- Write a query to report the number of vaccinations each animal has recieved. Include animals that were never vaccinated.
+-- Exclude rabbits, rabies vaccines, and animals that were last vaccinated on or after October first, 2019.
+-- The report should show the animals name, species, primary color, breed, and the number of vaccinations.
+-- Use the correct logical join type and force order if needed.
+-- Use the correct logical group by expressions.
 
 SELECT  A.Species,
 		A.Name,
